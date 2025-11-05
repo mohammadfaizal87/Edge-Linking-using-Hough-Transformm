@@ -51,8 +51,14 @@ plt.axis('off')
 
 
 <img width="438" height="342" alt="image" src="https://github.com/user-attachments/assets/1c038286-d7dc-436f-90bd-17fbfa0eee98" />
+
 <img width="452" height="326" alt="image" src="https://github.com/user-attachments/assets/e91c75d2-17d9-4333-9616-f1cb7b37cae8" />
+
 <img width="492" height="329" alt="image" src="https://github.com/user-attachments/assets/1a74102d-a27c-4f01-a7af-28ead98531b6" />
+
 <img width="439" height="313" alt="image" src="https://github.com/user-attachments/assets/d8032969-501e-42de-bf7f-aa9511263e10" />
+
+## RESULT
+Thus the program has been executed successfully.
 
 
